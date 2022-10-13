@@ -1,4 +1,4 @@
-### @hideIteration true
+<!-- ### @hideIteration true -->
 # TechKidsCamp
 
 ## コマンドを実行する
